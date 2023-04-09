@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E8A0BF&height=200&section=header&text=Songkira&fontColor=FDF4F5&fontSize=60&animation=twinkling&fontAlignY=33&desc=front-end%20engineer%20&descAlignY=51&descAlign=67)
 <p align='center'> Front-end engineer </p>
 ## 🐰 **caerinso**
 - I am a junior `back-end` developer.
